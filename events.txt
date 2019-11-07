@@ -1,0 +1,3 @@
+6
+Logins:2:Total time online:3:Emails sent:1:Orders processed:1:
+Pizza's ordered online:0.55:orders cancelled:1.75:
